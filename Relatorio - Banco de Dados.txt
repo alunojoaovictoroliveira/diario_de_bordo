@@ -1,0 +1,18 @@
+Dia 25/04
+
+ O Professor mostrou alguns conceitos de Banco de Dados e fizemos o modelo entidade-relacionamento e salvamos esse modelo entidade-relacionamento no github.
+   O que é?
+   Pra que serve?
+
+Dia 02/05
+
+ Continuação do projeto do banco de dados da situação de aprendizagem,onde foi utilizado a linguagem de programação SQL para a construção do banco.
+ Utilização dos comandos insert para inserção de informações nas tabelas.
+
+Dia 09/05
+
+ Utilizado Engenharia direta no MySQL para gerar o script de criação do banco.
+ Inserido algumas informações utilizando o comando insert.
+ Utilizado o  comando select para ver as informações.
+ Salvado as informações no GitHub
+  

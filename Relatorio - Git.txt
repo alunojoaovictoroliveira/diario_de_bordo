@@ -1,0 +1,12 @@
+Dia 04/04
+
+ Aula de Integração com o Kahoot,
+
+Dia 11/04
+
+ Criamos a conta no github,aprendemos os comandos do git bash,sendo alguns desses git add,git init,git clone,git commit
+	git init   = inicia um repositorio
+	git add    = adiciona os arquivos
+	git clone  = clona um repositorio
+	git commit = faz um commit dos arquivos da pasta
+	

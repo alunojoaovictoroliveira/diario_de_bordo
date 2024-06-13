@@ -1,0 +1,8 @@
+Dia 06/06
+
+ Aprendido conceito de UX, e investigado sites de API gratutios para ver a documentação e tentar acessar pelo postman.
+ Baixando projeto modelo para usar a biblioteca OpenAPI e Swagger para a documentação automatica
+
+Dia 13/06
+
+ Utilizamos o intelij para adicionar nome,versão,descrição e contato no site swagger
