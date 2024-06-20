@@ -4,7 +4,7 @@ Dia 20/06
  e adiconamos as dependencias ao projeto usando o spring initializr,adiconamos a dependencia do Spring OpenAPI
  O projeto tem uma parte principal e uma parte de testes
  Criamos a classe "tipo" e a classe "endereco" para servir de modelo de informação para depois podermos consultarmos as infromações
- Criamos a classe Event
+ Criamos a classe Evento
 
 
 
