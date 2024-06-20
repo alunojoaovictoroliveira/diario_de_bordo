@@ -1,0 +1,12 @@
+Dia 20/06
+
+ Exculimos o repositorio do github chamado eventos,e criamos um repositorio chamado eventos_api para substitui-lo,criamos o projeto usando o spring initializr 
+ e adiconamos as dependencias ao projeto usando o spring initializr,adiconamos a dependencia do Spring OpenAPI
+ O projeto tem uma parte principal e uma parte de testes
+ Criamos a classe "tipo" e a classe "endereco" para servir de modelo de informação para depois podermos consultarmos as infromações
+
+
+
+ Front End ----->Controler -------> Classes ---> Repository ------------->Jpa ---------> Database----
+    |               ||                              ||                     ||                        |
+    ----------------  ------------------------------  ---------------------      --------------------
