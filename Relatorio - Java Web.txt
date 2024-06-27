@@ -11,3 +11,7 @@ Dia 20/06
  Front End ----->Controler -------> Classes ---> Repository ------------->Jpa ---------> Database----
     |               ||                              ||                     ||                        |
     ----------------  ------------------------------  ---------------------      --------------------
+
+Dia 27/06
+
+ Fizemos uma prova por meio de três jogos no Code.org,recriamos o nosso projeto do jogo de adivinhação de numeros no scratch
