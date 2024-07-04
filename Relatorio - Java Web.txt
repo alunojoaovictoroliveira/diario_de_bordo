@@ -15,3 +15,7 @@ Dia 20/06
 Dia 27/06
 
  Fizemos uma prova por meio de três jogos no Code.org,recriamos o nosso projeto do jogo de adivinhação de numeros no scratch
+
+Dia 04/07
+ 
+ Utilizamos o scratch para criar uma copia do jogo space invaders,criamos sprites dos inimigos,da nave e fizemos ela poder atirar
