@@ -19,3 +19,8 @@ Dia 27/06
 Dia 04/07
  
  Utilizamos o scratch para criar uma copia do jogo space invaders,criamos sprites dos inimigos,da nave e fizemos ela poder atirar
+
+Dia 11/07
+ 
+ Utilizamos o scratch para finalizar o jogo que criamos na semana passada,incrementamos um sistema de tiro pros inimigos,criamos uma variavel para contar o score e as vidas
+ do personagem e criamos um boss para o jogo
