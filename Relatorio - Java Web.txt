@@ -24,3 +24,7 @@ Dia 11/07
  
  Utilizamos o scratch para finalizar o jogo que criamos na semana passada,incrementamos um sistema de tiro pros inimigos,criamos uma variavel para contar o score e as vidas
  do personagem e criamos um boss para o jogo
+
+Dia 01/08
+
+ Hoje continuamos o projeto do "eventos_api",usando o intelij,adicionamos repositorys nas classes e tambem adiconamos controllers
