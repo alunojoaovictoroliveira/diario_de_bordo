@@ -28,3 +28,7 @@ Dia 11/07
 Dia 01/08
 
  Hoje continuamos o projeto do "eventos_api",usando o intelij,adicionamos repositorys nas classes e tambem adiconamos controllers
+
+Dia 08/08
+
+ Hoje começamos o dia fazendo os controllers das classes evento e endereco usamos o postman para verificar e adicionar informações,um pouco antes do intervalo nos fomos ver uma apresentação que simulava uma linha de produção automatizada de uma empresa,depois voltamos para a sala e terminamos o dois controllers
