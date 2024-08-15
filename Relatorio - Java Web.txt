@@ -32,3 +32,7 @@ Dia 01/08
 Dia 08/08
 
  Hoje começamos o dia fazendo os controllers das classes evento e endereco usamos o postman para verificar e adicionar informações,um pouco antes do intervalo nos fomos ver uma apresentação que simulava uma linha de produção automatizada de uma empresa,depois voltamos para a sala e terminamos o dois controllers
+
+Dia 15/08
+
+ Hoje criamos a Classe,Controller e Repository para as seguintes entidades:Cliente,Usuario,Midia,Ingresso e Fornecedor
