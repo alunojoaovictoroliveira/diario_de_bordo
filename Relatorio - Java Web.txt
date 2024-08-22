@@ -36,3 +36,7 @@ Dia 08/08
 Dia 15/08
 
  Hoje criamos a Classe,Controller e Repository para as seguintes entidades:Cliente,Usuario,Midia,Ingresso e Fornecedor
+
+Dia 22/08
+
+ Continuamos o projeto da api, corrigimos os erros do codigo, e testamos no postman os gets, os put's não estavam funcionando
