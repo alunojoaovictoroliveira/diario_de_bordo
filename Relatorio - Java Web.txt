@@ -42,3 +42,4 @@ Dia 22/08
  Continuamos o projeto da api, corrigimos os erros do codigo, e testamos no postman os gets, os put's não estavam funcionando. 
  Apresentação Logica de programação - Gabryel,Eu,Thiago,Bianca
  Laço de repetição e decisão,minecraft,scratch
+laramja rosa e roxo cores padrao
