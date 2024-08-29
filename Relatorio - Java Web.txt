@@ -40,7 +40,12 @@ Dia 15/08
 Dia 22/08
 
  Continuamos o projeto da api, corrigimos os erros do codigo, e testamos no postman os gets, os put's não estavam funcionando. 
-Iremos fazer uma apresentação para o professor na proxima aula, e depois dessa a apresentação será para os nossos pais
+ Iremos fazer uma apresentação para o professor na proxima aula, e depois dessa a apresentação será para os nossos pais
  Apresentação Logica de programação - Gabryel,Eu,Thiago,Bianca
  Laço de repetição e decisão,minecraft,scratch
-laramja rosa e roxo cores padrao
+ laranja rosa e roxo cores padrao
+
+Dia 29/09
+
+ Terminamos de fazer os slides para a apresentação no ultimo dia de aula
+verificamos se a api e o diario de bordo estavam no github
